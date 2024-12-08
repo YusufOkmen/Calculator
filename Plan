@@ -1,0 +1,3 @@
+Hesap makinesi kodlayacağım. Hesap makinemde toplama, çıkarma, bölme ve çarpma olacak. Kullanıcı kodu başlattığı zaman ondan, önce sırası ile iki sayı girmesi istenecek. Sonrasında yukarıda saydığımız dört işlem türünden birini seçecek ve program sonlanacak. 
+
+input ile ilk sayıyı iste ardından ikinci sayıyı iste, 
