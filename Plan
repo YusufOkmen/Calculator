@@ -1,3 +1,5 @@
 Hesap makinesi kodlayacağım. Hesap makinemde toplama, çıkarma, bölme ve çarpma olacak. Kullanıcı kodu başlattığı zaman ondan, önce sırası ile iki sayı girmesi istenecek. Sonrasında yukarıda saydığımız dört işlem türünden birini seçecek ve program sonlanacak. 
 
-input ile ilk sayıyı iste ardından ikinci sayıyı iste, 
+programın kodlama aşaması bitti. Şimdi buna tkinter kullanarak bir arayüz ekleyelim.
+
+Öncelikle 0 dan 9 a kadar 10 tane buton olacak. bu butonlara tıkladığımızda bize bir string value verecek ve biz bunu int() komutu kullanarak integera çevireceğiz. Bu işlem 2 kez tekrar edilecek yani kullanıcıdan 2 sayı alınacak sonrasında 4 operatörden biri seçilecek ve işlem tamamlanacak. Tamamlanan işlem bir label içine yazdırılacak. 
